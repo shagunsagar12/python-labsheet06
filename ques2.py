@@ -1,0 +1,2 @@
+s = {10, "Python", 3.5, True}
+print("Set:", s)
